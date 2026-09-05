@@ -11,6 +11,30 @@
         "repo": "ayii0111/custom-skills"
       },
       "description": "custom-skills"
+    },
+    {
+      "name": "ccc-divider",
+      "source": {
+        "source": "github",
+        "repo": "ayii0111/ccc-divider"
+      },
+      "description": "Full-width visual separator with timestamp after each Claude response.",
+      "author": {
+        "name": "ayii"
+      },
+      "category": "productivity"
+    },
+    {
+      "name": "exit-clean",
+      "source": {
+        "source": "github",
+        "repo": "ayii0111/exit-clean"
+      },
+      "description": "Leave the current session and permanently delete its history file.",
+      "author": {
+        "name": "ayii"
+      },
+      "category": "productivity"
     }
   ]
 }

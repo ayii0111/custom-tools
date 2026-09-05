@@ -23,3 +23,5 @@ Claude Code 索引式市場（index marketplace）。
 | Plugin | Source |
 | --- | --- |
 | custom-skills | [ayii0111/custom-skills](https://github.com/ayii0111/custom-skills) |
+| ccc-divider | [ayii0111/ccc-divider](https://github.com/ayii0111/ccc-divider) |
+| exit-clean | [ayii0111/exit-clean](https://github.com/ayii0111/exit-clean) |
