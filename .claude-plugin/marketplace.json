@@ -1,0 +1,16 @@
+{
+  "name": "custom-tools",
+  "owner": {
+    "name": "ayii"
+  },
+  "plugins": [
+    {
+      "name": "custom-skills",
+      "source": {
+        "source": "github",
+        "repo": "ayii0111/custom-skills"
+      },
+      "description": "custom-skills"
+    }
+  ]
+}
