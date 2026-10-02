@@ -35,6 +35,18 @@
         "name": "ayii"
       },
       "category": "productivity"
+    },
+    {
+      "name": "collapse-code-block",
+      "source": {
+        "source": "github",
+        "repo": "ayii0111/collapse-code-block"
+      },
+      "description": "Collapse Edit/Write diffs into one line; click to expand.",
+      "author": {
+        "name": "ayii"
+      },
+      "category": "productivity"
     }
   ]
 }
