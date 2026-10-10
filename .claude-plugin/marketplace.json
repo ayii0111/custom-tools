@@ -59,6 +59,18 @@
         "name": "ayii"
       },
       "category": "productivity"
+    },
+    {
+      "name": "projectize",
+      "source": {
+        "source": "github",
+        "repo": "ayii0111/projectize"
+      },
+      "description": "Name the current session and turn it into a project under ~/cc-projects.",
+      "author": {
+        "name": "ayii"
+      },
+      "category": "productivity"
     }
   ]
 }

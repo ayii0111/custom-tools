@@ -27,3 +27,4 @@ Claude Code 索引式市場（index marketplace）。
 | exit-clean | [ayii0111/exit-clean](https://github.com/ayii0111/exit-clean) |
 | collapse-code-block | [ayii0111/collapse-code-block](https://github.com/ayii0111/collapse-code-block) |
 | power-stats | [ayii0111/power-stats](https://github.com/ayii0111/power-stats) |
+| projectize | [ayii0111/projectize](https://github.com/ayii0111/projectize) |
