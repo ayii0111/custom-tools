@@ -47,6 +47,18 @@
         "name": "ayii"
       },
       "category": "productivity"
+    },
+    {
+      "name": "power-stats",
+      "source": {
+        "source": "github",
+        "repo": "ayii0111/power-stats"
+      },
+      "description": "remote-control（手機）session 每輪回覆結尾附上 Mac 電量與電池溫度",
+      "author": {
+        "name": "ayii"
+      },
+      "category": "productivity"
     }
   ]
 }
